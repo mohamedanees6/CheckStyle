@@ -1,4 +1,4 @@
 package format;
 
-public class SampleFile {
-}
+public class SampleFile {}
+
