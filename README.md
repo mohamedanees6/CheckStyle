@@ -1,5 +1,5 @@
 # CheckStyle
-Formats the file as per Google Checkstyle Standards
+Formats all the java files as per Google Checkstyle Standards in one go!
 
 Uses, https://github.com/google/google-java-format code for formatting all the Java files in codebase.
 
